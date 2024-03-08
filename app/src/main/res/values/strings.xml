@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">KosTracker</string>
+
+    <string name="kost_name">Nama Kost</string>
+    <string name="facility">Fasilitas</string>
+    <string name="price">Harga</string>
+    <string name="profile">Profile</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+
+    <string-array name="data_name">
+        <item>Kost Harmoni Residence</item>
+        <item>Kost Seruni Asri</item>
+        <item>Kost Ganesha Living</item>
+        <item>Kost Melati Indah</item>
+        <item>Kost Bintang Abadi</item>
+        <item>Kost Anggrek Residence</item>
+        <item>Kost Ceria Home</item>
+        <item>Kost Mizan</item>
+        <item>Kost Bahagia</item>
+        <item>Kost Sejahtera</item>
+    </string-array>
+
+    <string-array name="data_facility">
+        <item>K. Mandi Dalam, WiFi, AC, Kloset Duduk, Kasur, Akses 24 Jam</item>
+        <item>WiFi, Kloset Duduk, Kasur, Akses 24 Jam, Ruang Santai, Parkir</item>
+        <item>AC, Kloset Duduk, Kasur, Akses 24 Jam, Dapur Bersama, CCTV</item>
+        <item>WiFi, AC, Kloset Duduk, Akses 24 Jam, Ruang Makan Bersama, Parkir</item>
+        <item>Kloset Duduk, Kasur, Akses 24 Jam, Dapur Bersama, Parkir, Keamanan 24 Jam</item>
+        <item>WiFi, AC, Kasur, Akses 24 Jam, Ruang Santai, Keamanan 24 Jam</item>
+        <item>AC, Kloset Duduk, Kasur, Akses 24 Jam, Dapur Bersama, Keamanan 24 Jam</item>
+        <item>Ranjang tingkat, meja belajar, lemari pakaian, kamar mandi bersama.</item>
+        <item>AC, TV, Wi-Fi, kulkas, kamar mandi dalam.</item>
+        <item>Ranjang tingkat, meja belajar, lemari pakaian, kamar mandi bersama.</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp1.200.000/bulan</item>
+        <item>Rp1.250.000/bulan</item>
+        <item>Rp1.180.000/bulan</item>
+        <item>Rp1.300.000/bulan</item>
+        <item>Rp1.150.000/bulan</item>
+        <item>Rp1.220.000/bulan</item>
+        <item>Rp1.280.000/bulan</item>
+        <item>Rp800.000/bulan</item>
+        <item>Rp1.200.000/bulan</item>
+        <item>Rp600.000/bulan</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/kos1</item>
+        <item>@drawable/kos2</item>
+        <item>@drawable/kos3</item>
+        <item>@drawable/kos4</item>
+        <item>@drawable/kos5</item>
+        <item>@drawable/kos6</item>
+        <item>@drawable/kos7</item>
+        <item>@drawable/kos8</item>
+        <item>@drawable/kos9</item>
+        <item>@drawable/kos10</item>
+    </string-array>
+
+    <string-array name="data_address">
+        <item>Jl. Harmoni No. 123, Kel. Harmoni, Kec. Gambir, Jakarta Pusat, DKI Jakarta</item>
+        <item>Jl. Seruni Asri No. 456, Kel. Seruni, Kec. Cicendo, Bandung, Jawa Barat</item>
+        <item>Jl. Ganesha No. 789, Kel. Ganesha, Kec. Sukolilo, Surabaya, Jawa Timur</item>
+        <item>Jl. Melati Indah No. 101, Kel. Melati, Kec. Gondokusuman, Yogyakarta, DIY</item>
+        <item>Jl. Bintang Abadi No. 202, Kel. Bintang, Kec. Medan Kota, Medan, Sumatera Utara</item>
+        <item>Jl. Anggrek Residence No. 303, Kel. Anggrek, Kec. Semarang Tengah, Semarang, Jawa Tengah</item>
+        <item>Jl. Ceria Home No. 404, Kel. Ceria, Kec. Biringkanaya, Makassar, Sulawesi Selatan</item>
+        <item>Jl. Mizan No. 505, Kel. Mizan, Kec. Ilir Barat I, Palembang, Sumatera Selatan</item>
+        <item>Jl. Bahagia No. 606, Kel. Bahagia, Kec. Denpasar Barat, Denpasar, Bali</item>
+        <item>Jl. Sejahtera No. 707, Kel. Sejahtera, Kec. Balikpapan Selatan, Balikpapan, Kalimantan Timur</item>
+    </string-array>
+
+
+
+
+</resources>
